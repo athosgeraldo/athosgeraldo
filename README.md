@@ -50,7 +50,6 @@ Pipeline de dados completo (ETL) para uma empresa de gestão de resíduos, com D
   `Cisco` `AWS` `Active Directory` `Linux` `FortiGate`
 
 - **Projeto LDI — Livraria Digital para Idosos**: projeto acadêmico de Design Centrado no Usuário (UCD), com pesquisa de personas, mapas de empatia, especificação de requisitos, modelagem UML e protótipos de alta fidelidade para uma plataforma acessível de leitura de e-books.
-  🔗 [Protótipo implantado](https://v0-projeto-analise-eosin.vercel.app)
 
 ---
 
@@ -74,7 +73,7 @@ Pipeline de dados completo (ETL) para uma empresa de gestão de resíduos, com D
 ### 🔗 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/athosgeraldo" target="_blank">
+  <a href="https://www.linkedin.com/in/athos-geraldo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:athos.geraldosds@outlook.com">
