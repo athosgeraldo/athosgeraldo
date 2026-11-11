@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Athos Geraldo 👋</h1>
 
 <p align="center">
-  Estudante de <b>Sistemas de Informação</b> na PUC Minas | Interessado em desenvolvimento de software e infraestrutura de redes
+  Estudante de <b>Sistemas de Informação</b> na PUC Minas | Interessado em desenvolvimento de software 
 </p>
 
 ---
